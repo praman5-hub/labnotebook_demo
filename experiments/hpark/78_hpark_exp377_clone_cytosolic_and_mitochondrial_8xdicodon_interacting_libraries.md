@@ -5,7 +5,7 @@ Date: "2021-07-22"
 ----
 
 # Goal
-Clone cytosolic and mitochondrial 8x dicodon integrating libraries #78
+Clone cytosol#78
 
 # Issue
 Clone cytosolic and mitochondrial 8x dicodon integrating libraries [#78](https://github.com/rasilab/rqc_aggregation_aging/issues/78)
